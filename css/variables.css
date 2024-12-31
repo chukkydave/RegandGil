@@ -1,0 +1,10 @@
+:root {
+    --primary-color: #192b59;
+    --secondary-color: #418bcc;
+    --accent-color: #df2028;
+
+    /* Variations */
+    --primary-color-light: rgba(25, 43, 89, 0.8);
+    --secondary-color-light: rgba(65, 139, 204, 0.8);
+    --accent-color-light: rgba(223, 32, 40, 0.8);
+}
